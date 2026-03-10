@@ -468,7 +468,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 **Dr. Suhirthakumar Puvanendran**  
 Bioinformatics | Genomics | Nextflow Pipelines  
-🔗 [LinkedIn](www.linkedin.com/in/suhirthakumar) · [GitHub](https://github.com/Suhirthakumar)
+🔗 [LinkedIn](https://www.linkedin.com/in/suhirthakumar/) · [GitHub](https://github.com/Suhirthakumar)
 
 ---
 
