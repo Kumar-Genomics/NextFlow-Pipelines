@@ -1,4 +1,4 @@
-# 🧬 RNA-seq Nextflow Pipeline
+`# 🧬 RNA-seq Nextflow Pipeline
 
 > **FASTQ → QC → Trimming → Alignment → Quantification → Count Matrix**
 
@@ -468,7 +468,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 **Dr. Suhirthakumar Puvanendran**  
 Bioinformatics | Genomics | Nextflow Pipelines  
-🔗 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [GitHub](https://github.com/YOUR_USERNAME)
+🔗 [LinkedIn](www.linkedin.com/in/suhirthakumar) · [GitHub](https://github.com/Suhirthakumar)
 
 ---
 
